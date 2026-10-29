@@ -11,6 +11,6 @@ and simulate control systems.
 
 **Projects**
 - [Linear motion plant](https://github.com/GermanSa05/linear-motion-plant) — mechanical design and CAD for a control systems lab
-- [LaTeX thesis template](https://github.com/GermanSa05/latex-thesis-template) — formatting template for engineering reports
+- [LaTeX thesis template](https://github.com/GermanSa05/latex-template) — formatting template for engineering reports
 
 Currently available for CAD modeling and technical document formatting.
